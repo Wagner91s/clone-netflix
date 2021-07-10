@@ -1,4 +1,4 @@
-$('.owl-carousel').owlCarousel({
+$('.owl-carousel').owlCarousel({ 
     loop:true,
     margin:15,
     nav:false,
